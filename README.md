@@ -81,6 +81,15 @@ https://bit.dev/pricing
 
 Proプランで5人開発で、1万円強
 
+* コンポーネント登録解除
+
+```
+# remote
+$ bit remove username.your-collection/foo/bar --remote
+# local
+$ bit remove username.your-collection/foo/bar --force
+```
+
 # 終わりに
 
 プライベートレポジトリとStoryBookのいいとこどりしたSaas。
