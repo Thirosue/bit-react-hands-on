@@ -50,7 +50,7 @@ $ bit build
 
 ```
 $ bit tag --all 1.0.0
-$ bit export thirosue.react-hands-on
+$ bit export thirosue.react-sample
 ```
 
 # コンポーネントの利用
@@ -65,7 +65,7 @@ $ npm config set @bit:registry https://node.bit.dev
 
 # 対象のコンポーネントカタログページ
 
-https://bit.dev/thirosue/react-hands-on
+https://bit.dev/thirosue/react-sample
 
 # おまけ
 
