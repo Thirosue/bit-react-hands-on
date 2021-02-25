@@ -8,7 +8,7 @@
 
 以下の流れで、`bit cli`とreactアプリを2つ作成している状態から始めます。
 
-* [事前準備]](doc/Preparation.md)
+[事前準備](doc/Preparation.md)
 
 # ハンズオンの流れ
 
