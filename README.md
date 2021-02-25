@@ -17,21 +17,12 @@
    1. [原子(Atoms) コンポーネントの追加 @ アプリ1で実施](doc/2-1.md)
    2. [有機体(Organisms) コンポーネントの追加 @ アプリ2で実施](doc/2-2.md)
    3. [Pages（ページ）コンポーネントの追加 @ アプリ1で実施](doc/2-3.md)
-# ストーリーブック初期化
-
-アプリ1で実施
-
-```
-$ cd app1
-$ npx sb init
-```
 
 # コンポーネント追加
 
 * 前準備（ログインなど）
 
 ```
-$ cd app1
 $ bit init
 $ bit login
 ```
@@ -62,7 +53,7 @@ $ bit tag --all 1.0.0
 $ bit export thirosue.react-hands-on
 ```
 
-# 使い方
+# コンポーネントの利用
 
 * Bit レポジトリを取得対象に追加
 
@@ -71,6 +62,10 @@ $ npm config set @bit:registry https://node.bit.dev
 ```
 
 * 普通に`yarn add`
+
+# 対象のコンポーネントカタログページ
+
+https://bit.dev/thirosue/react-hands-on
 
 # おまけ
 
